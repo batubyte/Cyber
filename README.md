@@ -1,3 +1,3 @@
-# Cyber
+# Cyber-GUI
 
-![image](https://github.com/user-attachments/assets/038e0a4e-3a2d-4e69-aed1-3fd7ff69d066)
+![image](https://github.com/user-attachments/assets/c70445aa-1600-4ae9-9bc1-c0bb5408ca3d)
